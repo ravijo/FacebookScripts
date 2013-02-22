@@ -1,0 +1,1 @@
+This script automatically pokes back to all Facebook friends.
